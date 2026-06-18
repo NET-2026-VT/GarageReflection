@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GarageDI", "GarageDI.csproj", "{4C1559EF-0A74-4CA7-BB54-80575DD0319A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C1559EF-0A74-4CA7-BB54-80575DD0319A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C1559EF-0A74-4CA7-BB54-80575DD0319A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C1559EF-0A74-4CA7-BB54-80575DD0319A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C1559EF-0A74-4CA7-BB54-80575DD0319A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4DECDBB-3239-418B-B1AE-63520D32C63A}
+	EndGlobalSection
+EndGlobal
