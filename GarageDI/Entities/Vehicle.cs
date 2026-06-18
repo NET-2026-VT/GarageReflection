@@ -86,7 +86,7 @@ public abstract class Vehicle : IVehicle
     {
         if (_info is not null) return _info;
 
-        var builder = new StringBuilder().Append($"[{GetType().Name}]\t\t");
+        var builder = new StringBuilder().Append($"[{Name}]\t\t");
 
         Array.ForEach(GetType().GetFilteredProperties(),
                       p => builder.Append($" {p.GetDisplayText()}: {p.GetValue(this)}\t"));
